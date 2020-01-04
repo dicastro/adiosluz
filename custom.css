@@ -1,0 +1,17 @@
+.green-energy {
+    display: flex;
+    background-image: url(green_energy.svg);
+    background-repeat: no-repeat;
+    background-size: 100% 200%;
+    width: 4.375rem;
+    height: 2.25rem;
+}
+
+#result #paymentresult {
+    width: 100%;
+}
+
+#result p {
+    text-align: right;
+    font-size: smaller;
+}
